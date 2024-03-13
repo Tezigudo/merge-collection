@@ -1,6 +1,6 @@
 # merge-collection
 
-## Install and Run Test
+## How to install and run unittest
 
 ### Install
 
@@ -20,7 +20,7 @@ bun install
 
 ### Run Test
 
-To execute UnitTest :
+To execute UnitTest:
 
 ```bash
 bun test
