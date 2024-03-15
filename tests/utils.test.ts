@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test";
-import { mergedAsd, mergedOpposite } from "./utils";
+import { mergedAsd, mergedOpposite } from "../src/utils";
 
 describe("mergedAsd", () => {
   it("should merge two sorted collections with equal length", () => {

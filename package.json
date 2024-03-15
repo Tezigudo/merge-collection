@@ -1,6 +1,6 @@
 {
   "name": "merge-collection",
-  "module": "merge.ts",
+  "module": "src/merge.ts",
   "type": "module",
   "devDependencies": {
     "bun-types": "latest"
