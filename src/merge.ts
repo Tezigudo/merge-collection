@@ -10,3 +10,4 @@ export function merge(
 
   return merged_collection;
 }
+ 
